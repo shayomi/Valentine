@@ -11,10 +11,10 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://adegoroyesayo.com/"),
+  metadataBase: new URL("https://note-to-temitayo.vercel.app/"),
   title: {
-    default: "Adegoroye sayo",
-    template: "%s | Adegoroye sayo",
+    default: "For my wife's Valentine",
+    template: "%s | For my Wife's Valentine",
   },
 };
 
