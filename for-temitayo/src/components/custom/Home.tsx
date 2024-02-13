@@ -42,7 +42,7 @@ const HomeLayout = () => {
         <Typography variant="h4" className="flex justify-center">
           Temitayo Mawusi Noamesi Adegoroye, Will you be my val ?
         </Typography>
-        <a href="https://wa.link/37lp8a" className="flex justify-center mt-4">
+        <a href="https://wa.link/ym258v" className="flex justify-center mt-4">
           <Button>Let me know</Button>
         </a>
       </div>
